@@ -1,0 +1,217 @@
+{
+  "project": "Chocolate Sales Power BI Dashboard",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 61
+    },
+    {
+      "path": "BI DASH CHOCO.pbix",
+      "size_bytes": 1593547
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 1518
+    },
+    {
+      "path": "powerbi-source/StaticResources/RegisteredResources/boxes-12516966102785314.png",
+      "size_bytes": 13490
+    },
+    {
+      "path": "powerbi-source/StaticResources/RegisteredResources/Maroon_Awesome_Chocolates_Page7712327679082415.png",
+      "size_bytes": 1043936
+    },
+    {
+      "path": "powerbi-source/StaticResources/RegisteredResources/shipments-18170054147963214.png",
+      "size_bytes": 12714
+    },
+    {
+      "path": "powerbi-source/StaticResources/RegisteredResources/amount-19238866721179607.png",
+      "size_bytes": 11959
+    },
+    {
+      "path": "powerbi-source/StaticResources/RegisteredResources/profits-135111260939291544.png",
+      "size_bytes": 15492
+    },
+    {
+      "path": "powerbi-source/StaticResources/RegisteredResources/profit-pct-19983607504616501.png",
+      "size_bytes": 13524
+    },
+    {
+      "path": "powerbi-source/StaticResources/SharedResources/BaseThemes/Fluent2-CY26SU10.json",
+      "size_bytes": 39127
+    },
+    {
+      "path": "powerbi-source/definition/version.json",
+      "size_bytes": 140
+    },
+    {
+      "path": "powerbi-source/definition/report.json",
+      "size_bytes": 1539
+    },
+    {
+      "path": "powerbi-source/definition/pages/pages.json",
+      "size_bytes": 381
+    },
+    {
+      "path": "powerbi-source/definition/pages/9c090bd70088590ac745/page.json",
+      "size_bytes": 219
+    },
+    {
+      "path": "powerbi-source/definition/pages/9c090bd70088590ac745/visuals/b53ca4d45de0b21c7b9e/visual.json",
+      "size_bytes": 875
+    },
+    {
+      "path": "powerbi-source/definition/pages/9c090bd70088590ac745/visuals/b08221d099a8b366a55b/visual.json",
+      "size_bytes": 1919
+    },
+    {
+      "path": "powerbi-source/definition/pages/8b36a80457a97e798db1/page.json",
+      "size_bytes": 219
+    },
+    {
+      "path": "powerbi-source/definition/pages/8b36a80457a97e798db1/visuals/65ca1c8b480589509619/visual.json",
+      "size_bytes": 1523
+    },
+    {
+      "path": "powerbi-source/definition/pages/8b36a80457a97e798db1/visuals/3a16913c32a61667a217/visual.json",
+      "size_bytes": 629
+    },
+    {
+      "path": "powerbi-source/definition/pages/9efdca1c345a8ee975dd/page.json",
+      "size_bytes": 219
+    },
+    {
+      "path": "powerbi-source/definition/pages/9efdca1c345a8ee975dd/visuals/f7de7dc0a4782304bd0a/visual.json",
+      "size_bytes": 1246
+    },
+    {
+      "path": "powerbi-source/definition/pages/9efdca1c345a8ee975dd/visuals/67897f59b373c49d8db7/visual.json",
+      "size_bytes": 887
+    },
+    {
+      "path": "powerbi-source/definition/pages/9efdca1c345a8ee975dd/visuals/518887948325533099dc/visual.json",
+      "size_bytes": 2143
+    },
+    {
+      "path": "powerbi-source/definition/pages/d6509e23cd9590d04b36/page.json",
+      "size_bytes": 689
+    },
+    {
+      "path": "powerbi-source/definition/pages/d6509e23cd9590d04b36/visuals/02dcae87b496c1246329/visual.json",
+      "size_bytes": 1138
+    },
+    {
+      "path": "powerbi-source/definition/pages/d6509e23cd9590d04b36/visuals/13715d5f32e0d172e24e/visual.json",
+      "size_bytes": 1849
+    },
+    {
+      "path": "powerbi-source/definition/pages/d6509e23cd9590d04b36/visuals/c05b5955bc9100a62098/visual.json",
+      "size_bytes": 1030
+    },
+    {
+      "path": "powerbi-source/definition/pages/d6509e23cd9590d04b36/visuals/8bdac15f744a0005c772/visual.json",
+      "size_bytes": 1842
+    },
+    {
+      "path": "powerbi-source/definition/pages/ea586915ba0bb16b3930/page.json",
+      "size_bytes": 414
+    },
+    {
+      "path": "powerbi-source/definition/pages/ea586915ba0bb16b3930/visuals/b8a08860ba8b5b07cde0/visual.json",
+      "size_bytes": 944
+    },
+    {
+      "path": "powerbi-source/definition/pages/ea586915ba0bb16b3930/visuals/6728be98aa7526657601/visual.json",
+      "size_bytes": 880
+    },
+    {
+      "path": "powerbi-source/definition/pages/ea586915ba0bb16b3930/visuals/1586766240791ad13d2a/visual.json",
+      "size_bytes": 1025
+    },
+    {
+      "path": "powerbi-source/definition/pages/86d5ac41988ecb005ac1/page.json",
+      "size_bytes": 219
+    },
+    {
+      "path": "powerbi-source/definition/pages/86d5ac41988ecb005ac1/visuals/a13c1c9ca9a790cae994/visual.json",
+      "size_bytes": 1133
+    },
+    {
+      "path": "powerbi-source/definition/pages/86d5ac41988ecb005ac1/visuals/b58ab72145a1b95a8705/visual.json",
+      "size_bytes": 875
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/page.json",
+      "size_bytes": 1166
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/e3708dce09a63e4e9280/visual.json",
+      "size_bytes": 4854
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/dc387797e5b4d33cdc49/visual.json",
+      "size_bytes": 6801
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/ac7f3c3a96092c298525/visual.json",
+      "size_bytes": 3439
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/fbb0c20617b13714ae84/visual.json",
+      "size_bytes": 2352
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/c207bbfa74d070e70567/visual.json",
+      "size_bytes": 1621
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/1a969b07a7149beb2b72/visual.json",
+      "size_bytes": 3717
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/4e09adc64d49d515d159/visual.json",
+      "size_bytes": 2154
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/d52d2440061a816b17d3/visual.json",
+      "size_bytes": 2950
+    },
+    {
+      "path": "powerbi-source/definition/pages/424e057b51dd159ccad4/visuals/147ac8b69564e5a416e0/visual.json",
+      "size_bytes": 4040
+    },
+    {
+      "path": "powerbi-source/definition/pages/36be21e7543a09e0edd6/page.json",
+      "size_bytes": 219
+    },
+    {
+      "path": "powerbi-source/definition/pages/36be21e7543a09e0edd6/visuals/7f69c09f088167205b37/visual.json",
+      "size_bytes": 1457
+    },
+    {
+      "path": "powerbi-source/definition/pages/36be21e7543a09e0edd6/visuals/e9a205a88490aec840b6/visual.json",
+      "size_bytes": 1164
+    },
+    {
+      "path": "powerbi-source/definition/pages/36be21e7543a09e0edd6/visuals/99c3846e78b62caaac64/visual.json",
+      "size_bytes": 1008
+    },
+    {
+      "path": "powerbi-source/definition/pages/46aa52c9b01d60d33c22/page.json",
+      "size_bytes": 954
+    },
+    {
+      "path": "powerbi-source/definition/pages/46aa52c9b01d60d33c22/visuals/63b7f48a9ae45045cac6/visual.json",
+      "size_bytes": 1493
+    },
+    {
+      "path": "powerbi-source/definition/pages/46aa52c9b01d60d33c22/visuals/75178fdae61604e660c5/visual.json",
+      "size_bytes": 872
+    },
+    {
+      "path": "powerbi-source/definition/pages/46aa52c9b01d60d33c22/visuals/69c97eff33d705b07b92/visual.json",
+      "size_bytes": 1503
+    }
+  ]
+}

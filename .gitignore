@@ -1,0 +1,5 @@
+# Power BI / temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
